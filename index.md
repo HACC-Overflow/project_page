@@ -14,8 +14,8 @@ We have included an application that extends the capabilities of the fast chargi
 
 ## Links
 
-###[Our Github](https://github.com/HACC2019/hacc-overflow/)
+### [Our Github](https://github.com/HACC2019/hacc-overflow/)
 
-###[Deployed project](https://hacc.aparcar.org)
+### [Deployed project](https://hacc.aparcar.org)
 
 ### [Live Dashboard](https://hacc.aparcar.org/monitoring/d/1iX4RMAWk/overview?orgId=1&refresh=1m&from=1573568903794&to=1573590503794) (Login: demo/demo)
