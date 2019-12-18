@@ -1,3 +1,6 @@
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YdtEFqkVBOk/0.jpg)](https://www.youtube.com/watch?vYdtEFqkVBOk&feature=emb_title)
+
+
 ## Inspiration
 
 We as a species must take decisive action to cut down carbon emission in order to save our planet. Switching from a gas powered to an electric powered vehicle is a fantastic way reduce our carbon footprint. That is why it is crucial that our community's electric vehicle charging needs are being met. Our team is committed to gather, interpret, and present
