@@ -1,5 +1,5 @@
 ## Project Video:
-[![Project Video:](https://img.youtube.com/vi/YdtEFqkVBOk/0.jpg)](https://www.youtube.com/watch?vYdtEFqkVBOk&feature=emb_title)
+[![Project Video:](https://img.youtube.com/vi/YdtEFqkVBOk/0.jpg)](https://www.youtube.com/watch?v=YdtEFqkVBOk&feature=emb_title)
 
 
 ## Inspiration
